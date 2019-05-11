@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LiQing"
+  id="myeclipse.1557543343034"
+  context-root="/LiQing"
+  j2ee-spec="5.0"
+  archive="LiQing.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
